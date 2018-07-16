@@ -1,0 +1,41 @@
+[33mcommit 38a8893b613d4696ca03d372d93d2f2011b08e6e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: ganshanshan <ganshanshan@gmail.com>
+Date:   Fri Jul 13 17:41:56 2018 +0800
+
+    add test.txt
+
+[33mcommit 36621685b2457e9ac58d72b30b1fa0bf3e718986[m
+Author: ganshanshan <ganshanshan@gmail.com>
+Date:   Fri Jul 13 14:55:53 2018 +0800
+
+    Add something
+
+[33mcommit c98d71cca37bc5b848bd844930bf5037ed91153d[m
+Author: ganshanshan <ganshanshan@gmail.com>
+Date:   Fri Jul 13 14:32:51 2018 +0800
+
+    git tracks changes
+
+[33mcommit 876203f74ff2809a230b51271c43bdf7151dfb67[m
+Author: ganshanshan <ganshanshan@gmail.com>
+Date:   Fri Jul 13 14:30:43 2018 +0800
+
+    understand how stage works
+
+[33mcommit 58c16f6bdef400d6ac84d60ffad826f205c2aa41[m
+Author: ganshanshan <ganshanshan@gmail.com>
+Date:   Fri Jul 13 13:55:59 2018 +0800
+
+    append GPL
+
+[33mcommit 90cd13e6ee2a32f6ae5ced4f447edb4344569467[m
+Author: ganshanshan <ganshanshan@gmail.com>
+Date:   Fri Jul 13 13:54:46 2018 +0800
+
+    add disctributed
+
+[33mcommit e7d3a10740a567085a208ee9e244aede0ecb02f6[m
+Author: ganshanshan <ganshanshan@gmail.com>
+Date:   Fri Jul 13 13:43:42 2018 +0800
+
+    wrote a readme file
